@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Clases">
+      <UniqueIdentifier>{0cc6eded-020a-47c4-97ff-df7255e1b6de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Estructuras">
+      <UniqueIdentifier>{8ea3ec37-bbf3-48cb-a6ce-af2a14cb803f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="enum">
+      <UniqueIdentifier>{aa5e4cab-7d31-42bd-85d7-6326a98db033}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="All_Avaible_Image_Weapons.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="BackPack.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayText.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="CurrentWeapons.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Gear.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="CurrentGears.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>Clases</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="All_Avaible_Image_Weapons.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="BackPack.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalVariables.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="CurrentWeapons.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayText.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Estructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="ElementalDamage.h">
+      <Filter>enum</Filter>
+    </ClInclude>
+    <ClInclude Include="GearType.h">
+      <Filter>enum</Filter>
+    </ClInclude>
+    <ClInclude Include="Manufacturer.h">
+      <Filter>enum</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponType.h">
+      <Filter>enum</Filter>
+    </ClInclude>
+    <ClInclude Include="Rarity.h">
+      <Filter>enum</Filter>
+    </ClInclude>
+    <ClInclude Include="Gear.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="CurrentGears.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Clases</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
